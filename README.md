@@ -12,5 +12,5 @@ from basetrig import trid
 
 degree=30
 t=trid()
-print(t.sin𝜃)
+print(t.sin𝜃(angle=degree))
 ```
