@@ -40,3 +40,5 @@ print(g.area())
 25
 ```
 </details>
+> [!NOTE]  
+> You can also ask for a side length.
