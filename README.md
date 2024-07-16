@@ -14,3 +14,9 @@ degree=30
 t=trid()
 print(t.sin𝜃(angle=degree))
 ```
+<details>
+  <summary>example output:</summary>
+```
+0.5
+```
+</details>
