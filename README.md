@@ -21,3 +21,5 @@ print(t.sin𝜃(angle=degree))
 0.5
 ```
 </details>
+
+## Apply to geometric triangles
