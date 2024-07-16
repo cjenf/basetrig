@@ -23,3 +23,20 @@ print(t.sin𝜃(angle=degree))
 </details>
 
 ## Apply to geometric triangles
+```py
+from basetrig import geometry
+
+g=geometry(
+      a=10,
+      b=10,
+      𝜃c=30
+  )
+print(g.area())
+```
+<details>
+  <summary>example output:</summary>
+
+```py
+25
+```
+</details>
