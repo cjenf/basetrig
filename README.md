@@ -16,7 +16,8 @@ print(t.sin𝜃(angle=degree))
 ```
 <details>
   <summary>example output:</summary>
-```
+  
+```py
 0.5
 ```
 </details>
