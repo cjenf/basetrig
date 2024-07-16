@@ -1,3 +1,4 @@
 # basetrig
 ### Do some operations using trigonometric functions
-> :memo: **Note:** Sunrises are beautiful.
+> [!NOTE]  
+> This module only supports very basic calculations .
