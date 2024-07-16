@@ -43,4 +43,3 @@ print(g.area())
 
 > [!NOTE]  
 > **You can also ask for a side length**.<br>
-> **use ```get_a()``` ```get_b()``` ```get_c()```**
