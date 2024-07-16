@@ -4,7 +4,7 @@
 pip install basetrig
 ```
 > [!NOTE]  
-> This module only supports very basic calculations .
+> **This module only supports very basic calculations .**
 
 ## It can be found $sin𝜃$ $cos𝜃$ $tan𝜃$ ...
 ```py
@@ -43,3 +43,4 @@ print(g.area())
 
 > [!NOTE]  
 > **You can also ask for a side length**.
+> **use ```get_a()``` ...**
